@@ -1,0 +1,17 @@
+.text-todo {
+    align-items: center;
+    position: relative;
+    width: 40%;
+    font-size: 15px;
+    padding: 10px;
+    margin-left:8%;
+}
+.button-todo{
+    text-align: center;
+    background-color: dodgerblue;
+    border-bottom-style:groove;
+    width: 40%;
+    color: aliceblue;
+    font-size: 15px;
+    padding: 10px;
+}
